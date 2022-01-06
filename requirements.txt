@@ -1,0 +1,4 @@
+SQLAlchemy>=1.4.29
+GeoAlchemy2>=0.10.1
+Shapely>=1.8.0
+requests>=2.27.1
